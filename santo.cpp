@@ -4,5 +4,7 @@ using namespace std;
 
 int main(){
 	cout<<"hola"<<endl;
-	vector<int> vito;
+	int n;
+	cin>>n;
+	vector<int> vito(n);
 }
